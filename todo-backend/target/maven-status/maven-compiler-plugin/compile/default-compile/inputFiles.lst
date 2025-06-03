@@ -1,0 +1,11 @@
+/home/joel-wanko/Projects/java/todo-app/todo-backend/src/main/java/com/joel/todo/config/WebConfig.java
+/home/joel-wanko/Projects/java/todo-app/todo-backend/src/main/java/com/joel/todo/controller/HomeController.java
+/home/joel-wanko/Projects/java/todo-app/todo-backend/src/main/java/com/joel/todo/User.java
+/home/joel-wanko/Projects/java/todo-app/todo-backend/src/main/java/com/joel/todo/TodoRepository.java
+/home/joel-wanko/Projects/java/todo-app/todo-backend/src/main/java/com/joel/todo/exception/ResourceNotFoundException.java
+/home/joel-wanko/Projects/java/todo-app/todo-backend/src/main/java/com/joel/todo/UserRepository.java
+/home/joel-wanko/Projects/java/todo-app/todo-backend/src/main/java/com/joel/todo/TodoController.java
+/home/joel-wanko/Projects/java/todo-app/todo-backend/src/main/java/com/joel/todo/AuthController.java
+/home/joel-wanko/Projects/java/todo-app/todo-backend/src/main/java/com/joel/todo/TodoBackendApplication.java
+/home/joel-wanko/Projects/java/todo-app/todo-backend/src/main/java/com/joel/todo/exception/GlobalExceptionHandler.java
+/home/joel-wanko/Projects/java/todo-app/todo-backend/src/main/java/com/joel/todo/Todo.java
